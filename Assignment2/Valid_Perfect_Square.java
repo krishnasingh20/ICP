@@ -19,3 +19,4 @@ class Solution {
 }
 // TC--> O(log(n))
 // SC--> O(1)
+// i have taken high equal to num because square root of num never be greater then num
