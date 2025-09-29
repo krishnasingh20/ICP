@@ -20,5 +20,5 @@ class Solution {
         return false;
     }
 }
-TC--> O(log(m*n))
-SC--> O(1)
+// TC--> O(log(m*n))
+// SC--> O(1)
