@@ -1,5 +1,5 @@
 class Solution {
-    public String smallestSubsequence(String s) {
+    public String removeDuplicateLetters(String s) {
         int[] freq = new int[26];
         boolean[] present = new boolean[26];
         char[] ch = s.toCharArray();
